@@ -2,8 +2,7 @@
 About me:
 * Statistician 
 * Python and R programming
-* Statistical learning and Machine learning lover
-* Bayesian thinking
+* Statistical learning and Machine learning
 
 
 
